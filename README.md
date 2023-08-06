@@ -30,7 +30,7 @@ npx hardhat test
 11. Run npx hardhat run scripts/getBalance.js --network mumbai to see the new polygon balance
 
 ## NOTE:
-After deploying the address will generate. So, copy that address into `contarctAddress.js`(stored in metadata folder) and also in `mintNFT.js`(stored in scripts folder)
+After deploying the address will generate. So, copy that address  stored in metadata folder and also in `mint.js`(stored in scripts folder)
 
 ## Authors
 Metacrafter Chris Ashsih Mandal
